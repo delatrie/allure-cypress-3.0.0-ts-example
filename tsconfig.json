@@ -1,0 +1,9 @@
+{
+  "include": ["**/*.ts"],
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "types": ["cypress", "node"],
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext"
+  }
+}

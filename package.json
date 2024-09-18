@@ -1,0 +1,18 @@
+{
+  "name": "allure-cypress-3.0.0-ts-example",
+  "version": "0.0.1",
+  "description": "See allure-framework/allure-js#1136",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Maksim Stepanov",
+  "license": "MIT",
+  "type":"commonjs",
+  "devDependencies": {
+    "allure-cypress": "^3.0.0",
+    "allure-js-commons": "^3.0.0",
+    "cypress": "^13.14.2",
+    "typescript": "^5.6.2"
+  }
+}
